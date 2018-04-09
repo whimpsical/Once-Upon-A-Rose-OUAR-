@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0693a9e43dfcf4329a768b1b1ed62275
+timeCreated: 1518365110
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlackKnightFLF
+  fontNames:
+  - BlackKnightFLF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
